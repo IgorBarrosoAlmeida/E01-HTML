@@ -1,0 +1,18 @@
+.conteudo {
+    text-align: center;
+    padding: 0 30vw;
+    font-size: 24px;
+}
+
+li {
+    text-align: start;
+}
+
+h1 {
+    font-size: 64px;
+    padding: 0 20vw;
+}
+
+h2 {
+    font-size: 32px;
+}
