@@ -1,0 +1,18 @@
+p {
+    width: 50vw;
+}
+
+.questoes__item {
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.alternativas li {
+    list-style-type: lower-alpha;
+}
+
+.questoes {
+    width: fit-content;
+}
