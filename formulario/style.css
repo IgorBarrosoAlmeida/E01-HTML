@@ -1,0 +1,10 @@
+.input-container, .input-container label {
+    display: block;
+}
+
+.campo-form {
+    width: 30%;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+}
